@@ -42,7 +42,7 @@ public class Game {
         this.longDescription = longDescription;
     }
 
-    @Id
+  
     public Long getId() {
 
         return id;
